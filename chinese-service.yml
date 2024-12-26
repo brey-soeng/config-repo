@@ -18,7 +18,7 @@ eureka:
 springdoc:
   api-docs:
     enabled: true
-    path: /v3/api-docs # Default path for OpenAPI docs
+    path: /chinese/v3/api-docs # Default path for OpenAPI docs
   swagger-ui:
     path: /swagger-ui.html # Path for Swagger UI
     operations-sorter: alpha # Sort operations alphabetically
