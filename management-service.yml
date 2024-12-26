@@ -16,10 +16,3 @@ eureka:
     lease-renewal-interval-in-seconds: 30
     prefer-ip-address: true
     
-springdoc:
-  api-docs:
-    enabled: true
-    path: /managemnet/v3/api-docs # Default path for OpenAPI docs
-  swagger-ui:
-    path: /swagger-ui.html # Path for Swagger UI
-    operations-sorter: alpha # Sort operations alphabetically
